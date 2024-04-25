@@ -1,3 +1,4 @@
+###Hello, I'm Soham Shah 👋🏻
 
 🎓 I'm a Master’s student specializing in Information Systems at Northeastern University, where I dive deep into data analysis, machine learning, and predictive modeling to extract insights and drive innovation.
 
