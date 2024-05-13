@@ -1,15 +1,17 @@
-###Hello, I'm Soham Shah 👋🏻
+### **Hello, I'm Soham Shah 👋🏻**
 
-🎓 I'm a Master’s student specializing in Information Systems at Northeastern University, where I dive deep into data analysis, machine learning, and predictive modeling to extract insights and drive innovation.
+**🚀 Passionate about Data Engineering & Analysis**
 
-🔬 Passionate about Data Analysis & Engineering, I'm constantly exploring new datasets and challenges. My academic and project work revolves around using statistical methods and data-driven techniques to solve complex problems and enhance decision-making processes.
+**🎓 Academic Background**  
+I'm currently a Master’s student at Northeastern University, specializing in Information Systems. My academic journey is deeply rooted in data engineering, analytics, machine learning, and predictive modeling, with a strong focus on extracting data insights and driving innovation.
 
-💼 My profile includes projects like a Blockchain-based Blood Management System that improves efficiency by enhancing data integrity and a Global Healthcare Management System that leverages data to optimize healthcare delivery.
+**🔬 Professional and Academic Projects**  
+I actively engage in exploring new datasets and tackling diverse challenges. My project work and academic research leverage statistical methods and data-driven techniques to unravel complex problems and bolster decision-making processes.
 
-📬 How to connect with me:
-- Email: shah.soham1@northeastern.edu
-- LinkedIn: [soham-shah23](https://www.linkedin.com/in/soham-shah23/)
+**📬 Connect With Me** 
+- **Email:** shah.soham1@northeastern.edu
+- **LinkedIn:** [soham-shah23](https://www.linkedin.com/in/soham-shah23/)
 
-📊 Check out my GitHub repositories where I showcase my work on data analysis, from conceptual explorations to comprehensive, real-world applications. Each repository demonstrates my commitment to leveraging data to create impact.
-
+**📊 My GitHub Portfolio**  
+Check out my GitHub repositories to see my comprehensive work in data analysis, ranging from conceptual studies to practical implementations. Each project underlines my dedication to using data to generate meaningful impacts.
 
