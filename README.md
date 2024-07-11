@@ -1,12 +1,12 @@
 ### **Hello, I'm Soham Shah 👋🏻**
 
-**🚀 Passionate about Data Engineering & Analysis**
+**🚀 Passionate about Data & Analytics**
 
 **🎓 Academic Background**  
-I'm currently a Master’s student at Northeastern University, specializing in Information Systems. My academic journey is deeply rooted in data engineering, analytics, machine learning, and predictive modeling, with a strong focus on extracting data insights and driving innovation.
+I'm currently a Master’s student at Northeastern University, specializing in Information Systems. My academic journey is deeply rooted in data engineering, analytics, business intelligence, machine learning, and predictive modeling, with a strong focus on extracting data insights and driving innovation.
 
 **🔬 Professional and Academic Projects**  
-I actively engage in exploring new datasets and tackling diverse challenges. My project work and academic research leverage statistical methods and data-driven techniques to unravel complex problems and bolster decision-making processes.
+I actively engage in exploring new datasets and tackling diverse challenges. My project work and academic research leverage statistical methods and data-driven techniques to unravel complex problems and strengthen decision-making processes.
 
 **📬 Connect With Me** 
 - **Email:** shah.soham1@northeastern.edu
