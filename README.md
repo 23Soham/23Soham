@@ -30,7 +30,7 @@ Integrating Machine Learning into cloud-based data architectures.
 Data Pipeline Automation • Cloud Data Engineering • Power BI & Tableau Dashboards
 
 ⚡ **Fun Fact:**  
-My Power BI dashboard is checked more than Instagram at my workplace! 😄
+I once built a Power BI dashboard so addictive that my teammates checked it more often than Instagram! 😄
 
 ---
 
