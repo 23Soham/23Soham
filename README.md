@@ -6,11 +6,6 @@
 
 ---
 
-# 🧠 Daily Data Thought
-> "Without data, you're just another person with an opinion." – W. Edwards Deming
-
----
-
 # 💫 About Me
 
 🛠️ **Currently Working On:**  
