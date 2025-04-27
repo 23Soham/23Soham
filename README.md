@@ -1,9 +1,5 @@
 <!-- Data Engineer | Analytics Enthusiast -->
 
-<p align="center">
-  <img src="https://i.imgur.com/kcN1B8b.png" alt="Soham Shah GitHub Banner" width="100%" />
-</p>
-
 <h1 align="center">🚀 Soham Shah | Data Engineer | Analytics Enthusiast</h1>
 
 <p align="center">🔍 Transforming raw data into actionable insights • Building Scalable Data Pipelines • Cloud-Native Analytics Solutions</p>
