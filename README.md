@@ -1,6 +1,6 @@
 <!-- AI Data Engineer | ML Enthusiast -->
 
-<h1 align="center">🚀 Soham Shah | Data Engineer | Analytics Enthusiast</h1>
+<h1 align="center">🚀 Soham Shah | Data Engineer </h1>
 
 <p align="center">🔍 Transforming raw data into actionable insights • Building Scalable Data Pipelines • Cloud-Native Analytics Solutions</p>
 
