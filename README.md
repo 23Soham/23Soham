@@ -1,5 +1,5 @@
-<h1 align="center">🚀 Soham Shah | AI & Data Engineer | ML • Cloud • Analytics</h1>
-<p align="center">🔍 Turning Raw Data into Intelligent Decisions | Building AI-Driven, Cloud-Native, and Scalable Data Systems</p>
+<h1 align="center">🤖 Soham Shah | AI & Data Engineer | ML • Cloud • Analytics</h1>
+<p align="center">🔍 Helping organizations move from data → insights → automation • Specializing in AI Agents, ETL Pipelines, and Cloud Data Platforms</p>
 
 ---
 
@@ -32,7 +32,7 @@ I once built a Power BI dashboard so addictive that my teammates checked it more
 - [**AI Agent - NexaAssistant 🤖**](https://github.com/23Soham/NexaAssistant)  
   AI-powered agent for workflow automation with **LLMs, RAG, and API orchestration**.  
 
-- [**U.S Motor Vehicle Collision Analysis 🚦**](https://github.com/23Soham/Motor_Vehicle_Collision_Analysis)  
+- [**U.S. Motor Vehicle Collision Analysis 🚦**](https://github.com/23Soham/Motor_Vehicle_Collision_Analysis)  
   Data warehouse & BI reporting solution analyzing crash datasets across NYC, Chicago, and Austin.  
 
 - [**ETL Pipeline Automation ⚡**](https://github.com/23Soham/ETL_Pipeline_Automation)  
