@@ -29,10 +29,10 @@ I once built a Power BI dashboard so addictive that my teammates checked it more
 
 # 🌟 Featured Projects  
 
-- [**NexaAssistant 🤖**](https://github.com/23Soham/NexaAssistant)  
+- [**AI Agent - NexaAssistant 🤖**]((https://github.com/23Soham/NEXA---Personal-AI-Assistant))  
   AI-powered agent for workflow automation with **LLMs, RAG, and API orchestration**.  
 
-- [**Motor Vehicle Collision Analysis 🚦**](https://github.com/23Soham/Motor_Vehicle_Collision_Analysis)  
+- [**U.S Motor Vehicle Collision Analysis 🚦**](https://github.com/23Soham/Motor_Vehicle_Collision_Analysis)  
   Data warehouse & BI reporting solution analyzing crash datasets across NYC, Chicago, and Austin.  
 
 - [**ETL Pipeline Automation ⚡**](#)  
