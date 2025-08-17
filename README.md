@@ -15,7 +15,7 @@
 - 🚦 Built data pipelines processing **10M+ records/day** with Spark & Airflow  
 - 📊 Designed BI dashboards adopted by **5+ business teams** (Power BI, Tableau, QuickSight)  
 - ☁️ Migrated workloads to AWS & GCP, cutting infra costs by **30%**  
-- 🤖 Developed **AI Agents (NexaAssistant)** for workflow automation using LLM + RAG + APIs  
+- 🤖 Developed **AI Agents** for workflow automation using LLM + RAG + APIs  
 
 🌱 **Currently Learning**  
 - AWS Lambda & Serverless Architectures  
