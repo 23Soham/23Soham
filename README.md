@@ -35,8 +35,8 @@ I once built a Power BI dashboard so addictive that my teammates checked it more
 - [**U.S. Motor Vehicle Collision Analysis 🚦**](https://github.com/23Soham/Motor_Vehicle_Collision_Analysis)  
   Data warehouse & BI reporting solution analyzing crash datasets across NYC, Chicago, and Austin.  
 
-- [**ETL Pipeline Automation ⚡**](https://github.com/23Soham/ETL_Pipeline_Automation)  
-  End-to-end data engineering pipeline using **Spark + Airflow**, with monitoring and alerting.   
+- [**AI Chatbot ⚡**](https://github.com/23Soham/AI-Powered-Investing-Co-Pilot-Chatbot)
+  AI chatbot leveraging **RAG, Gemini LLM, and Pinecone** to analyze stock fundamentals and deliver explainable investment insights.
 
 ---
 
